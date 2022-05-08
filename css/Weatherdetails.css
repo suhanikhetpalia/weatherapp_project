@@ -1,0 +1,18 @@
+.weather{
+    background-color: #FFFFFF;
+    box-Shadow: 0px 4px 32px rgba(143, 143, 143, 0.4);
+    border-Radius: 4px;
+    padding: 10px; 
+    margin-Top: 10px;
+    margin-Left: 15%;
+    margin-Right: 15%
+}
+.addcomment{
+box-Shadow: 0px 4px 34px rgba(143, 143, 143, 0.4);
+border-Radius: 4px;
+padding: 10px;
+margin-Top: 10px;
+padding-Bottom: 10px; 
+margin-Left: 10%;
+margin-Right: 10%;
+}

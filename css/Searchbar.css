@@ -1,0 +1,21 @@
+.cityname{
+    font-Size: 24px;
+    width: 600px;
+    background-color: #FFFFFF;
+    box-Shadow: 0px 4px 30px rgba(143, 143, 143, 0.4);
+    border-Radius: 4px;
+    border: 1px solid #E5E5E5;
+    color: #8C8C99;
+    box-Sizing: border-box;
+    border-Radius: 4px;
+    padding: 5px
+
+}
+.searchbutton{
+    background-color: #3251ED;
+    color: white;
+    font-Size: 24px;
+    cursor: pointer;
+    box-Shadow: 0px 4px 30px rgba(143, 143, 143, 0.4);
+    border-Radius: 4px
+}

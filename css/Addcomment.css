@@ -1,0 +1,23 @@
+.comment{
+    border: 0.5px solid white;
+    padding: 10px;
+    fontFamily: Roboto,sans-serif;
+}
+
+.commentbox
+{
+ fontSize: 20px;
+  background-color: '#f7f2ff';
+  width: 95%;
+  border: '1px solid #E5E5E5';
+  border-Radius: 3px;
+  padding: 10px;
+  margin-Right: 20px;
+}
+.buttoncomment{
+ background-color: blue;
+  color: white; 
+  font-Size: 20px;
+  cursor: pointer;
+  float: left
+}
